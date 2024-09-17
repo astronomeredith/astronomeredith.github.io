@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "About Me"
 ---
 
 I'm a PhD candidate in the [Department of Astronomy/Steward Observatory](astro.arizona.edu) at the University of Arizona.
