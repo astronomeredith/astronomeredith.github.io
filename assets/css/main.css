@@ -3082,7 +3082,7 @@ input, select, textarea {
 		}
 
 		#header p {
-			font-size: 2em;
+			font-size: 1.25em;
 			letter-spacing: -0.025em;
 		}
 
@@ -3792,4 +3792,5 @@ input, select, textarea {
 			}
 
 		}
+
 
